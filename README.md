@@ -1,4 +1,5 @@
-### temporary
+# Temporary
 
-1. dsjlfksdjlfkjsl: sdlkjflsdjflksdjflk
-2. dflkjsdlkfjslk
+**1. calculator.py**: 'temporarily' tool
+
+- add, substract 등
