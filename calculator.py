@@ -8,3 +8,7 @@ def subtract(a, b):
     return a-b
 
 # ljf dlks
+
+
+def multiply(a, b):
+    return a*b
